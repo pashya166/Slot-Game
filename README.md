@@ -1,3 +1,3 @@
-slot game
+# slot game
 
 ide project untuk tugas dasar pemprograman
