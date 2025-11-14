@@ -1,2 +1,3 @@
-# Slot-Game
-Project
+slot game
+
+ide project untuk tugas dasar pemprograman
